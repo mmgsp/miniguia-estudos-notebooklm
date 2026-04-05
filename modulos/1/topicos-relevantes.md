@@ -81,3 +81,48 @@ Aqui estão as principais utilidades dessa tecnologia:
 - **Resiliência Operacional**: Facilita a adaptação rápida a mudanças externas (como tensões geopolíticas ou problemas na cadeia de suprimentos), permitindo ajustes locais e ágeis nos processos.
 
 - **Previsão de Demanda**: Setores como o varejo utilizam gêmeos digitais da cadeia de suprimentos para antecipar demandas e realizar pedidos automatizados de forma dinâmica.
+
+# Object-Centric Process Mining (OCPM)
+
+O Object-Centric Process Mining (OCPM) é uma evolução do process mining tradicional que altera o foco da análise de um "caso único" para uma perspectiva de múltiplos objetos simultâneos.
+Enquanto o método convencional rastreia um processo isolado (como um único pedido), o OCPM permite que as empresas acompanhem diversas entidades — como clientes, produtos e serviços — e as interdependências complexas entre elas.
+
+As principais vantagens desta abordagem em 2026 incluem:
+
+- **Visão Holística**: Proporciona uma compreensão mais rica das operações, permitindo visualizar como diferentes objetos interagem em diversos estágios dos processos.
+
+- **Otimização Proativa**: Permite que a gestão de processos deixe de ser apenas uma análise reativa para se tornar uma otimização proativa através de modelos de dados mais abrangentes.
+
+- **Escalabilidade**: É considerado fundamental para lidar com grandes volumes de dados e orquestrações complexas de processos corporativos.
+
+Plataformas líderes como Celonis e IBM já são totalmente compatíveis com OCPM, permitindo gerenciar diagramas de entidade-relacionamento sob uma perspectiva de dados.
+
+# Orquestração de Agentes (Orchestration Frameworks)
+
+A Orquestração de Agentes refere-se aos frameworks que gerenciam a lógica de execução, o estado e a memória de sistemas compostos por múltiplos agentes autônomos.
+Em 2026, a unidade básica de desenvolvimento deixou de ser o "prompt" para se tornar o agente, exigindo essas ferramentas para coordenar tarefas complexas que envolvem planejamento e uso de ferramentas externas.
+
+Os principais frameworks destacados nas fontes são:
+
+- **LangGraph**: Líder em orquestração de baixo nível, modela fluxos de trabalho como grafos (DAGs) para garantir controle fino, ciclos de feedback e auditabilidade.
+
+- **CrewAI**: Focado em uma abordagem de "equipe", onde desenvolvedores definem agentes com papéis (roles), objetivos e biografias específicas para colaboração.
+
+- **Microsoft Agent Framework e Google ADK**: Focam em padrões de colaboração conversacional e estruturas hierárquicas multimodais integradas a grandes ecossistemas de nuvem.
+
+Essas ferramentas são fundamentais para que as empresas movam a IA da fase de "chat" para a execução real de processos corporativos.
+
+# Task Mining
+
+O task mining foca no nível "micro" do trabalho, capturando interações detalhadas do usuário em suas estações de trabalho, como cliques de mouse, teclas digitadas e entradas de dados.
+
+Diferente do process mining tradicional, que olha para o fluxo de ponta a ponta em sistemas como ERPs, o task mining analisa logs de interface do usuário (UI) para descrever os passos exatos de uma tarefa específica.
+
+Isso permite:
+
+- **Identificar gargalos manuais**: Descobrir variações e ineficiências ocultas em tarefas individuais.
+
+- **Validar automações**: Criar casos de negócio precisos para automação robótica (RPA), fornecendo o contexto que falta na análise de alto nível.
+
+- **Visão Complementar**: Plataformas líderes como UiPath e ARIS utilizam o task mining para complementar a descoberta de processos, garantindo uma visão 360º da operação.
+
