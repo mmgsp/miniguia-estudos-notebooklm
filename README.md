@@ -8,4 +8,4 @@ Este miniguia foi criado com o objetivo de auxiliar seus usuários a entender me
 
 # Fontes:
 
-Foram utilizados 5 documentos como fonte de verdade única para este guia, você pode acessá-los na pasta [documentos](./docs).
+Foram utilizados 5 documentos como fonte de verdade única para este guia, você pode acessá-los na pasta [documentos](./documentos).
