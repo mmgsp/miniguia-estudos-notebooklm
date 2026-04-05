@@ -35,7 +35,7 @@ A geração de valor está altamente concentrada (75%) em quatro áreas funciona
 
 - **Mineração de Processos (Process Mining)**: Esta tecnologia é usada para descobrir e validar oportunidades de automação e IA agêntica, reduzindo riscos e custos de modernização de aplicativos ao visualizar gargalos e interdependências.
 
--**Engenharia de Software**: A automação de testes e geração de código gera economias de USD 240-460 bilhões.
+- **Engenharia de Software**: A automação de testes e geração de código gera economias de USD 240-460 bilhões.
 
 
 
