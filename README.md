@@ -6,6 +6,11 @@ Explorando o futuro! 🚀 Este é um miniguia de estudos focado nas Tendências 
 
 Este miniguia foi criado com o objetivo de auxiliar seus usuários a entender melhor o momento atual, assim como as têndencias, em relação aos impactos da inteligência artificial (em especial a IA Generativa) no mercado global, em áreas diversas. Uma compreensão sólida dos impactos dessa tecnologia proporciona ao usuário a capacidade de se adaptar, criando uma base sólida de conhecimento, sendo ou não da área da tecnologia. 
 
-# Fontes:
+# Índice:
 
 Foram utilizados 5 documentos como fonte de verdade única para este guia, você pode acessá-los na pasta [documentos](./documentos).
+Navegue pelos [módulos](./modulos) para acessar o material.
+
+Link de acesso ao notebook: [link](https://notebooklm.google.com/notebook/7aced9e0-ade6-417d-b5d9-141dd88a50cd)
+
+Bons estudos!
