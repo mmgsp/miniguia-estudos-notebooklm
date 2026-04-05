@@ -24,7 +24,7 @@ de utilização da ferramenta e disponibilizar prompts reutilizáveis que podem 
 
 # Fase 3: Explorando o Studio
 
-Nesta fase, explorei a funcionalidade Studio do NotebookLM para transformar os dados de entrada das fontes em recursos informativos e complementar ainda mais o material disponível, é possível gerar infográficos, apresentação em vídeo e muito mais. Você pode observar o material informativo gerado pelo notebookLM [aqui](/informativos) (tem até podcast).
+Nesta fase, explorei a funcionalidade Studio do NotebookLM para transformar os dados de entrada das fontes em recursos informativos e complementar ainda mais o material disponível, é possível gerar infográficos, apresentação em vídeo e muito mais. Você pode observar o material informativo gerado pelo notebookLM [aqui](/modulos/2/informativos) (tem até podcast).
 
 # Prompts Reutilizáveis
 
