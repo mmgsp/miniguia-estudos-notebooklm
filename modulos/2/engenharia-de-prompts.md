@@ -9,7 +9,7 @@ de utilização da ferramenta e disponibilizar prompts reutilizáveis que podem 
 # Fase 1: Síntese e Descoberta
 
 - **Prompt:** *"Atue como um analista de tendências de tecnologia. Analise os documentos anexados e liste as principais tendências de IA para o mercado corporativo em 2026, destacando o impacto econômico de cada uma."*
-- **Resultado:** O NotebookLM cruzou os dados das fontes e me entregou um resumo filtrado, que utilizei como base teórica para o **Módulo 1** ([cenário atual](./modulos/1/cenario-atual) e [impacto econômico](./modulos/1/impacto-economico-e-mercado)) do guia. Isso reduziu drasticamente o tempo de leitura passiva.
+- **Resultado:** O NotebookLM cruzou os dados das fontes e me entregou um resumo filtrado, que utilizei como base teórica para o **Módulo 1** ([cenário atual](modulos/1/cenario-atual.md) e [impacto econômico](modulos/1/impacto-economico-e-mercado.md)) do guia. Isso reduziu drasticamente o tempo de leitura passiva.
 
 - **Desafios**: Nesta etapa, o notebookLM estava, inicialmente, entregando respostas muito longas, em um tom muito técnico e com muitos termos sem explicação direta.
 - **Solução**:  Notei que o notebookLM dispõe de dois parâmetros para alterar o tom e tamanho das respostas, ajustei o estilo das respostas para "Guia Educacional" e obtive melhores respostas para o contexto educativo que eu estava procurando.
